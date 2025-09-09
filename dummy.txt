@@ -9,3 +9,4 @@ commit hash -> random number
 git reset ->unstage all the files that you styage to coorect your mistake
 i am going to change th file 
 gti status->to check the status of each file 
+this is an important line
