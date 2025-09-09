@@ -6,4 +6,5 @@ git commit->all files will stage
 git push ->all file will move to the    git
 initially all fioles will unstage
 commit hash -> random number 
-git reset ->unstage all the files that you styage to coorect your mistake'
+git reset ->unstage all the files that you styage to coorect your mistake
+i am going to change th file 
